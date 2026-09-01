@@ -1,0 +1,1712 @@
+{
+  "asOf": "1 กันยายน 2569",
+  "sourceFile": "คลังยา69.xlsx",
+  "summary": {
+    "items": 174,
+    "inventoryQty": 112344.0,
+    "inventoryValue": 210978.25,
+    "dispenseQty": 589632.0,
+    "dispenseValue": 1081288.0,
+    "totalUsageQty": 746476.0,
+    "totalUsageValue": 1411810.0,
+    "outStock": 32,
+    "belowThreshold": 83,
+    "nearExpiry": 6,
+    "lowCover": 33,
+    "monthsCoverAvg": 1.81,
+    "expiringValue": 1814.5,
+    "useToReceivePct": 130.57
+  },
+  "topUsage": [
+    {
+      "name": "METFORMIN(B)กันแสง(500s) 500 mg",
+      "qty": 7310.0,
+      "value": 7310.0,
+      "usageQty": 83910.0,
+      "usageValue": 83910.0,
+      "threshold": 14000.0,
+      "monthsCover": 1.05
+    },
+    {
+      "name": "EnaRapril (C,D-23rd)(1000s) *5* mg",
+      "qty": 6815.0,
+      "value": 6815.0,
+      "usageQty": 83208.0,
+      "usageValue": 83208.0,
+      "threshold": 14000.0,
+      "monthsCover": 0.98
+    },
+    {
+      "name": "SIMVASTATIN (X)กันแสง(100s) 20 mg",
+      "qty": 7870.0,
+      "value": 11805.0,
+      "usageQty": 75534.0,
+      "usageValue": 113301.0,
+      "threshold": 13000.0,
+      "monthsCover": 1.25
+    },
+    {
+      "name": "AMLODIPINE (C)(1000s) 10 mg",
+      "qty": 6510.0,
+      "value": 9765.0,
+      "usageQty": 67272.0,
+      "usageValue": 100908.0,
+      "threshold": 12000.0,
+      "monthsCover": 1.16
+    },
+    {
+      "name": "HYDRALAzine (C)(500s) 25 mg",
+      "qty": 6520.0,
+      "value": 13040.0,
+      "usageQty": 53194.0,
+      "usageValue": 106388.0,
+      "threshold": 10000.0,
+      "monthsCover": 1.47
+    },
+    {
+      "name": "GLIPIZIDE(C)(500s) 5 mg",
+      "qty": 4635.0,
+      "value": 4635.0,
+      "usageQty": 48551.0,
+      "usageValue": 48551.0,
+      "threshold": 8000.0,
+      "monthsCover": 1.15
+    },
+    {
+      "name": "FERROUS FUMARATE(A)(500s) 200 mg",
+      "qty": 2140.0,
+      "value": 1070.0,
+      "usageQty": 44448.0,
+      "usageValue": 22224.0,
+      "threshold": 2500.0,
+      "monthsCover": 0.58
+    },
+    {
+      "name": "LOSARTAN(C,D2D3)(300s) 50 mg",
+      "qty": 5825.0,
+      "value": 17475.0,
+      "usageQty": 36003.0,
+      "usageValue": 108009.0,
+      "threshold": 8000.0,
+      "monthsCover": 1.94
+    },
+    {
+      "name": "HCTZ (B,D preg.)(500s) 25 mg",
+      "qty": 2600.0,
+      "value": 1300.0,
+      "usageQty": 21121.0,
+      "usageValue": 10560.5,
+      "threshold": 4000.0,
+      "monthsCover": 1.48
+    },
+    {
+      "name": "ยามะระขี้นก(100s) 500 mg",
+      "qty": 1820.0,
+      "value": 2730.0,
+      "usageQty": 21070.0,
+      "usageValue": 31605.0,
+      "threshold": 4000.0,
+      "monthsCover": 1.04
+    }
+  ],
+  "topStock": [
+    {
+      "name": "SIMVASTATIN (X)กันแสง(100s) 20 mg",
+      "qty": 7870.0,
+      "value": 11805.0,
+      "usageQty": 75534.0,
+      "usageValue": 113301.0,
+      "threshold": 13000.0,
+      "monthsCover": 1.25
+    },
+    {
+      "name": "METFORMIN(B)กันแสง(500s) 500 mg",
+      "qty": 7310.0,
+      "value": 7310.0,
+      "usageQty": 83910.0,
+      "usageValue": 83910.0,
+      "threshold": 14000.0,
+      "monthsCover": 1.05
+    },
+    {
+      "name": "EnaRapril (C,D-23rd)(1000s) *5* mg",
+      "qty": 6815.0,
+      "value": 6815.0,
+      "usageQty": 83208.0,
+      "usageValue": 83208.0,
+      "threshold": 14000.0,
+      "monthsCover": 0.98
+    },
+    {
+      "name": "HYDRALAzine (C)(500s) 25 mg",
+      "qty": 6520.0,
+      "value": 13040.0,
+      "usageQty": 53194.0,
+      "usageValue": 106388.0,
+      "threshold": 10000.0,
+      "monthsCover": 1.47
+    },
+    {
+      "name": "AMLODIPINE (C)(1000s) 10 mg",
+      "qty": 6510.0,
+      "value": 9765.0,
+      "usageQty": 67272.0,
+      "usageValue": 100908.0,
+      "threshold": 12000.0,
+      "monthsCover": 1.16
+    },
+    {
+      "name": "Aspirin(C)(1000s) *81*mg",
+      "qty": 5825.0,
+      "value": 2912.5,
+      "usageQty": 12478.0,
+      "usageValue": 6239.0,
+      "threshold": 3000.0,
+      "monthsCover": 5.6
+    },
+    {
+      "name": "LOSARTAN(C,D2D3)(300s) 50 mg",
+      "qty": 5825.0,
+      "value": 17475.0,
+      "usageQty": 36003.0,
+      "usageValue": 108009.0,
+      "threshold": 8000.0,
+      "monthsCover": 1.94
+    },
+    {
+      "name": "GLIPIZIDE(C)(500s) 5 mg",
+      "qty": 4635.0,
+      "value": 4635.0,
+      "usageQty": 48551.0,
+      "usageValue": 48551.0,
+      "threshold": 8000.0,
+      "monthsCover": 1.15
+    },
+    {
+      "name": "ENALAPRIL (C,D23rd)(1000s) 20 mg",
+      "qty": 4040.0,
+      "value": 8080.0,
+      "usageQty": 15777.0,
+      "usageValue": 31554.0,
+      "threshold": 4000.0,
+      "monthsCover": 3.07
+    },
+    {
+      "name": "HCTZ (B,D preg.)(500s) 25 mg",
+      "qty": 2600.0,
+      "value": 1300.0,
+      "usageQty": 21121.0,
+      "usageValue": 10560.5,
+      "threshold": 4000.0,
+      "monthsCover": 1.48
+    }
+  ],
+  "expiring": [
+    {
+      "name": "NORFLOXACIN (C)(500s) 400 mg",
+      "qty": 400.0,
+      "value": 700.0,
+      "usageQty": 20.0,
+      "usageValue": 35.0,
+      "threshold": 500.0,
+      "monthsCover": 239.52,
+      "days": 47,
+      "expiry": "18/10/2026"
+    },
+    {
+      "name": "CHLORPHENIRAMINE SYR. (B) 2 mg/5 mL",
+      "qty": 15.0,
+      "value": 105.0,
+      "usageQty": 90.0,
+      "usageValue": 630.0,
+      "threshold": 50.0,
+      "monthsCover": 2.0,
+      "days": 54,
+      "expiry": "25/10/2026"
+    },
+    {
+      "name": "รางจืด(100s) 400 มิลลิกรัม",
+      "qty": 500.0,
+      "value": 750.0,
+      "usageQty": 8280.0,
+      "usageValue": 12420.0,
+      "threshold": 500.0,
+      "monthsCover": 0.72,
+      "days": 59,
+      "expiry": "30/10/2026"
+    },
+    {
+      "name": "0.9 NSS 5 ml* 900 mg/100 mL",
+      "qty": 10.0,
+      "value": 60.0,
+      "usageQty": 8.0,
+      "usageValue": 48.0,
+      "threshold": 10.0,
+      "monthsCover": 14.93,
+      "days": 73,
+      "expiry": "13/11/2026"
+    },
+    {
+      "name": "DOMPERIDONE Sry (B) 5 mg/5 mL",
+      "qty": 2.0,
+      "value": 15.5,
+      "usageQty": 23.0,
+      "usageValue": 178.25,
+      "threshold": 10.0,
+      "monthsCover": 1.04,
+      "days": 73,
+      "expiry": "13/11/2026"
+    },
+    {
+      "name": "Chlorhexidine MOUTH WASH 120 mg/100 mL",
+      "qty": 8.0,
+      "value": 184.0,
+      "usageQty": 0.0,
+      "usageValue": 0.0,
+      "threshold": 5.0,
+      "monthsCover": null,
+      "days": 87,
+      "expiry": "27/11/2026"
+    }
+  ],
+  "monthly": [
+    {
+      "month": "มี.ค. 69",
+      "qty": 59974.0,
+      "value": 125198.75
+    },
+    {
+      "month": "เม.ย. 69",
+      "qty": 83225.0,
+      "value": 152271.5
+    },
+    {
+      "month": "พ.ค. 69",
+      "qty": 51016.0,
+      "value": 94604.25
+    },
+    {
+      "month": "มิ.ย. 69",
+      "qty": 65086.0,
+      "value": 173631.25
+    },
+    {
+      "month": "ก.ค. 69",
+      "qty": 92279.0,
+      "value": 147286.0
+    },
+    {
+      "month": "ส.ค. 69",
+      "qty": 46066.0,
+      "value": 87477.25
+    }
+  ],
+  "alerts": {
+    "outStock": [
+      {
+        "name": "Phenytoin(Dilantin)(D)(1000s)* 100 mg",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 1350.0,
+        "usageValue": 6075.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "loraZEPAM(D)กันแสง* 500 mcg",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 1070.0,
+        "usageValue": 535.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "CILOSTAZOL(100s)* 100 mg",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 720.0,
+        "usageValue": 9360.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "VITAMIN C (A)กันแสง(1000s) 100 mg",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 540.0,
+        "usageValue": 270.0,
+        "threshold": 1000.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "TRAMADOL HCl(C)* 50 mg",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 290.0,
+        "usageValue": 435.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "Ibuprofen (B;D 3rd)(500s) **200** mg",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 210.0,
+        "usageValue": 210.0,
+        "threshold": 500.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "Itraconazole(1000s) 100 mg",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 60.0,
+        "usageValue": 390.0,
+        "threshold": 1000.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "OPV vaccine* 1 vaccinating dose + 1 vaccinating dose + 1 vaccin",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 42.0,
+        "usageValue": 840.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "dT Vaccine 2 Lf/0.5 mL + 8.8 Lf/0.5 mL",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 33.0,
+        "usageValue": 3300.0,
+        "threshold": 2.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "PREDNISOLONE(C,D1rd)(1000s)* 5 mg",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 30.0,
+        "usageValue": 15.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "DTP vaccine* 30 iu/0.5 mL + 4 iu/0.5 mL + 60 iu/0.5 mL",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 29.0,
+        "usageValue": 2900.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "DTP-HB Hib vaccine* 15 Lf/0.5 mL + 30 mcg/0.5 mL + 10 mcg/0.5 mL + 4 i",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 27.0,
+        "usageValue": 2700.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "ROTASIIL vaccine* 1 x 10 5.6 FFU/2 mL + 1 x 10 5.6 FFU/2 mL + 1 x 10",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 25.0,
+        "usageValue": 2500.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "MMR vaccine* 1000 tcid50/0.5 mL + 5000 tcid50/0.5 mL + 1000 tci",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 16.0,
+        "usageValue": 1600.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "IPV vaccine* 15 D antigen unit/0.5 mL + 45 D antigen unit/0.5 m",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 14.0,
+        "usageValue": 1400.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "Amoxicillin Clav(tab) (B)* 875 mg + 125 mg",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 14.0,
+        "usageValue": 206.5,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "KALIMATE(C)* 5 g",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 12.0,
+        "usageValue": 66.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "JE LIVE VACCINE* 4 pfu",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 12.0,
+        "usageValue": 2160.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "Oseltamivir (Tamiflu) (C)* 75 mg",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 10.0,
+        "usageValue": 340.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "MMR vaccine* (multiple) 1000 tcid50/0.5 mL + 5000 tcid50/0.5 mL + 1000 tci",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 4.0,
+        "usageValue": 400.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "AMoXicillin Clav susp.(B)* 200 mg/5 mL + 28.5 mg/5 mL",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 0.0,
+        "usageValue": 0.0,
+        "threshold": 0.0,
+        "monthsCover": null
+      },
+      {
+        "name": "ACYCLOVIR* 800 mg",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 0.0,
+        "usageValue": 0.0,
+        "threshold": 0.0,
+        "monthsCover": null
+      },
+      {
+        "name": "ACYCLOVIR* (C) 200 mg",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 0.0,
+        "usageValue": 0.0,
+        "threshold": 0.0,
+        "monthsCover": null
+      },
+      {
+        "name": "DIAZEPAM (D) กันแสง* 2 mg",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 0.0,
+        "usageValue": 0.0,
+        "threshold": 0.0,
+        "monthsCover": null
+      },
+      {
+        "name": "HPV vaccine 9 types* 40 mcg/0.5 mL + 60 mcg/0.5 mL + 40 mcg/0.5 mL + 20",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 0.0,
+        "usageValue": 0.0,
+        "threshold": 0.0,
+        "monthsCover": null
+      },
+      {
+        "name": "HPV vaccine 4 types* 40 mcg/0.5 mL + 40 mcg/0.5 mL + 20 mcg/0.5 mL + 20",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 0.0,
+        "usageValue": 0.0,
+        "threshold": 0.0,
+        "monthsCover": null
+      },
+      {
+        "name": "HYDROGEN PEROXIDE 6 g/100 mL",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 0.0,
+        "usageValue": 0.0,
+        "threshold": 1.0,
+        "monthsCover": null
+      },
+      {
+        "name": "KY-LUBRICATING JELLY 82 g",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 0.0,
+        "usageValue": 0.0,
+        "threshold": 1.0,
+        "monthsCover": null
+      },
+      {
+        "name": "OSELtamivir (C)* +45+ mg",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 0.0,
+        "usageValue": 0.0,
+        "threshold": 0.0,
+        "monthsCover": null
+      },
+      {
+        "name": "Oseltamivir (C)* *30* mg.",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 0.0,
+        "usageValue": 0.0,
+        "threshold": 0.0,
+        "monthsCover": null
+      },
+      {
+        "name": "Oseltamivir (syr) (C)* powder for oral suspension\t6 mg/1 mL",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 0.0,
+        "usageValue": 0.0,
+        "threshold": 0.0,
+        "monthsCover": null
+      },
+      {
+        "name": "PROPRANOLOL (C,D2,3) 10 mg",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 0.0,
+        "usageValue": 0.0,
+        "threshold": 0.0,
+        "monthsCover": null
+      }
+    ],
+    "belowThreshold": [
+      {
+        "name": "EnaRapril (C,D-23rd)(1000s) *5* mg",
+        "qty": 6815.0,
+        "value": 6815.0,
+        "usageQty": 83208.0,
+        "usageValue": 83208.0,
+        "threshold": 14000.0,
+        "monthsCover": 0.98
+      },
+      {
+        "name": "METFORMIN(B)กันแสง(500s) 500 mg",
+        "qty": 7310.0,
+        "value": 7310.0,
+        "usageQty": 83910.0,
+        "usageValue": 83910.0,
+        "threshold": 14000.0,
+        "monthsCover": 1.05
+      },
+      {
+        "name": "AMLODIPINE (C)(1000s) 10 mg",
+        "qty": 6510.0,
+        "value": 9765.0,
+        "usageQty": 67272.0,
+        "usageValue": 100908.0,
+        "threshold": 12000.0,
+        "monthsCover": 1.16
+      },
+      {
+        "name": "SIMVASTATIN (X)กันแสง(100s) 20 mg",
+        "qty": 7870.0,
+        "value": 11805.0,
+        "usageQty": 75534.0,
+        "usageValue": 113301.0,
+        "threshold": 13000.0,
+        "monthsCover": 1.25
+      },
+      {
+        "name": "HYDRALAzine (C)(500s) 25 mg",
+        "qty": 6520.0,
+        "value": 13040.0,
+        "usageQty": 53194.0,
+        "usageValue": 106388.0,
+        "threshold": 10000.0,
+        "monthsCover": 1.47
+      },
+      {
+        "name": "GLIPIZIDE(C)(500s) 5 mg",
+        "qty": 4635.0,
+        "value": 4635.0,
+        "usageQty": 48551.0,
+        "usageValue": 48551.0,
+        "threshold": 8000.0,
+        "monthsCover": 1.15
+      },
+      {
+        "name": "ยามะระขี้นก(100s) 500 mg",
+        "qty": 1820.0,
+        "value": 2730.0,
+        "usageQty": 21070.0,
+        "usageValue": 31605.0,
+        "threshold": 4000.0,
+        "monthsCover": 1.04
+      },
+      {
+        "name": "LOSARTAN(C,D2D3)(300s) 50 mg",
+        "qty": 5825.0,
+        "value": 17475.0,
+        "usageQty": 36003.0,
+        "usageValue": 108009.0,
+        "threshold": 8000.0,
+        "monthsCover": 1.94
+      },
+      {
+        "name": "เถาวัลย์เปรียง (100s) 500 mg",
+        "qty": 1480.0,
+        "value": 2220.0,
+        "usageQty": 9890.0,
+        "usageValue": 14835.0,
+        "threshold": 3000.0,
+        "monthsCover": 1.8
+      },
+      {
+        "name": "HCTZ (B,D preg.)(500s) 25 mg",
+        "qty": 2600.0,
+        "value": 1300.0,
+        "usageQty": 21121.0,
+        "usageValue": 10560.5,
+        "threshold": 4000.0,
+        "monthsCover": 1.48
+      },
+      {
+        "name": "PARACETAMOL(B) 500 mg",
+        "qty": 1710.0,
+        "value": 855.0,
+        "usageQty": 16235.0,
+        "usageValue": 8117.5,
+        "threshold": 3000.0,
+        "monthsCover": 1.26
+      },
+      {
+        "name": "Atorvastatin (X)(100s) 40 mg",
+        "qty": 1360.0,
+        "value": 8160.0,
+        "usageQty": 14301.0,
+        "usageValue": 85806.0,
+        "threshold": 2500.0,
+        "monthsCover": 1.14
+      },
+      {
+        "name": "ยาฟ้าทะลายโจร(100s) 500 mg",
+        "qty": 400.0,
+        "value": 900.0,
+        "usageQty": 6090.0,
+        "usageValue": 13702.5,
+        "threshold": 1500.0,
+        "monthsCover": 0.79
+      },
+      {
+        "name": "ยาหอมเทพจิตร(20s) 200 มิลลิกรัม/เม็ด",
+        "qty": 125.0,
+        "value": 1875.0,
+        "usageQty": 6458.0,
+        "usageValue": 96870.0,
+        "threshold": 1200.0,
+        "monthsCover": 0.23
+      },
+      {
+        "name": "DEXTROMETHORPHAN (C)(1000s) 15 mg",
+        "qty": 50.0,
+        "value": 50.0,
+        "usageQty": 570.0,
+        "usageValue": 570.0,
+        "threshold": 1000.0,
+        "monthsCover": 1.05
+      },
+      {
+        "name": "OMEPRAZOLE (C)กันแสง(100s) 20 mg",
+        "qty": 2120.0,
+        "value": 3180.0,
+        "usageQty": 11164.0,
+        "usageValue": 16746.0,
+        "threshold": 3000.0,
+        "monthsCover": 2.28
+      },
+      {
+        "name": "CHLORPHENIRAMINE (B)(1000s) 4 mg",
+        "qty": 340.0,
+        "value": 170.0,
+        "usageQty": 3260.0,
+        "usageValue": 1630.0,
+        "threshold": 1000.0,
+        "monthsCover": 1.25
+      },
+      {
+        "name": "METOPROLOL(C,D23)(500s) 100 mg",
+        "qty": 900.0,
+        "value": 1350.0,
+        "usageQty": 4005.0,
+        "usageValue": 6007.5,
+        "threshold": 1500.0,
+        "monthsCover": 2.7
+      },
+      {
+        "name": "HYDROXyzine(Atarax)(C)กันแสง(1000s) 10 mg",
+        "qty": 410.0,
+        "value": 205.0,
+        "usageQty": 500.0,
+        "usageValue": 250.0,
+        "threshold": 1000.0,
+        "monthsCover": 9.84
+      },
+      {
+        "name": "สหัสธารา(100s) 500 mg",
+        "qty": 950.0,
+        "value": 1425.0,
+        "usageQty": 2650.0,
+        "usageValue": 3975.0,
+        "threshold": 1500.0,
+        "monthsCover": 4.3
+      },
+      {
+        "name": "paraceTAMOL(B) *325* mg",
+        "qty": 470.0,
+        "value": 235.0,
+        "usageQty": 850.0,
+        "usageValue": 425.0,
+        "threshold": 1000.0,
+        "monthsCover": 6.64
+      },
+      {
+        "name": "GLYCERYL Guaiacolate(C)(1000s) 100 mg",
+        "qty": 525.0,
+        "value": 262.5,
+        "usageQty": 3520.0,
+        "usageValue": 1760.0,
+        "threshold": 1000.0,
+        "monthsCover": 1.79
+      },
+      {
+        "name": "DOMPERIDONE (B)(500s) 10 mg",
+        "qty": 40.0,
+        "value": 40.0,
+        "usageQty": 560.0,
+        "usageValue": 560.0,
+        "threshold": 500.0,
+        "monthsCover": 0.86
+      },
+      {
+        "name": "DICLOFENAC(B)(1000s) 25 mg",
+        "qty": 550.0,
+        "value": 550.0,
+        "usageQty": 1345.0,
+        "usageValue": 1345.0,
+        "threshold": 1000.0,
+        "monthsCover": 4.91
+      },
+      {
+        "name": "VITAMIN  BCOMPLEX (A)(1000s) 3 mg + 1 mcg + 50 mg + 2 mg + 5 mg + 10 mg",
+        "qty": 560.0,
+        "value": 560.0,
+        "usageQty": 3140.0,
+        "usageValue": 3140.0,
+        "threshold": 1000.0,
+        "monthsCover": 2.14
+      },
+      {
+        "name": "BUSCOPAN (C)(500s) 10 mg",
+        "qty": 70.0,
+        "value": 105.0,
+        "usageQty": 475.0,
+        "usageValue": 712.5,
+        "threshold": 500.0,
+        "monthsCover": 1.77
+      },
+      {
+        "name": "DICLOXACILLIN (B)(500s) 250 mg",
+        "qty": 80.0,
+        "value": 160.0,
+        "usageQty": 1390.0,
+        "usageValue": 2780.0,
+        "threshold": 500.0,
+        "monthsCover": 0.69
+      },
+      {
+        "name": "VITAMIN B1(1000s) 100 mg",
+        "qty": 620.0,
+        "value": 620.0,
+        "usageQty": 90.0,
+        "usageValue": 90.0,
+        "threshold": 1000.0,
+        "monthsCover": 82.67
+      },
+      {
+        "name": "BETAHISTINE (1000s) 6 mg",
+        "qty": 135.0,
+        "value": 135.0,
+        "usageQty": 1465.0,
+        "usageValue": 1465.0,
+        "threshold": 500.0,
+        "monthsCover": 1.11
+      },
+      {
+        "name": "FERROUS FUMARATE(A)(500s) 200 mg",
+        "qty": 2140.0,
+        "value": 1070.0,
+        "usageQty": 44448.0,
+        "usageValue": 22224.0,
+        "threshold": 2500.0,
+        "monthsCover": 0.58
+      },
+      {
+        "name": "IBUPROFEN (B,D-3rd)(500s) 400 mg",
+        "qty": 170.0,
+        "value": 170.0,
+        "usageQty": 360.0,
+        "usageValue": 360.0,
+        "threshold": 500.0,
+        "monthsCover": 5.67
+      },
+      {
+        "name": "Nifedipine SR(100s) 20 mg",
+        "qty": 1175.0,
+        "value": 2056.25,
+        "usageQty": 6551.0,
+        "usageValue": 11464.25,
+        "threshold": 1500.0,
+        "monthsCover": 2.15
+      },
+      {
+        "name": "PIOglitazone(500s) 30 mg",
+        "qty": 1695.0,
+        "value": 2542.5,
+        "usageQty": 9360.0,
+        "usageValue": 14040.0,
+        "threshold": 2000.0,
+        "monthsCover": 2.17
+      },
+      {
+        "name": "CALCIUM CARBONATE (C)(100s) 1.25 g",
+        "qty": 730.0,
+        "value": 1460.0,
+        "usageQty": 3030.0,
+        "usageValue": 6060.0,
+        "threshold": 1000.0,
+        "monthsCover": 2.89
+      },
+      {
+        "name": "MANIDIPINE(100s) 20 mg",
+        "qty": 1435.0,
+        "value": 5381.25,
+        "usageQty": 7860.0,
+        "usageValue": 29475.0,
+        "threshold": 1700.0,
+        "monthsCover": 2.19
+      },
+      {
+        "name": "AMOXICILLIN (B)(500s) 500 mg",
+        "qty": 255.0,
+        "value": 510.0,
+        "usageQty": 820.0,
+        "usageValue": 1640.0,
+        "threshold": 500.0,
+        "monthsCover": 3.73
+      },
+      {
+        "name": "ATEnolol(D)(กันแสง)(500s) 50 mg",
+        "qty": 2290.0,
+        "value": 1145.0,
+        "usageQty": 9286.0,
+        "usageValue": 4643.0,
+        "threshold": 2500.0,
+        "monthsCover": 2.96
+      },
+      {
+        "name": "ORS (B)(100s) 2.025 g/3.3 g + 225 mg/3.3 g + 390 mg/3.3 g + 435",
+        "qty": 26.0,
+        "value": 52.0,
+        "usageQty": 641.0,
+        "usageValue": 1282.0,
+        "threshold": 200.0,
+        "monthsCover": 0.49
+      },
+      {
+        "name": "METHYLdoPA(500s) 250 mg",
+        "qty": 840.0,
+        "value": 1680.0,
+        "usageQty": 2505.0,
+        "usageValue": 5010.0,
+        "threshold": 1000.0,
+        "monthsCover": 4.02
+      },
+      {
+        "name": "TRIFERDINE-150(1200s) 185 mg + 400 mcg + 196 mcg",
+        "qty": 1043.0,
+        "value": 1825.25,
+        "usageQty": 4142.0,
+        "usageValue": 7248.5,
+        "threshold": 1200.0,
+        "monthsCover": 3.02
+      },
+      {
+        "name": "มะขามแขก(100s) 400 mg",
+        "qty": 360.0,
+        "value": 720.0,
+        "usageQty": 1440.0,
+        "usageValue": 2880.0,
+        "threshold": 500.0,
+        "monthsCover": 3.0
+      },
+      {
+        "name": "มะแว้ง(20s) 200 mg",
+        "qty": 168.0,
+        "value": 882.0,
+        "usageQty": 1088.0,
+        "usageValue": 5712.0,
+        "threshold": 300.0,
+        "monthsCover": 1.85
+      },
+      {
+        "name": "Mefenamic Acid(C,D-3rd)(1000s) 250 mg",
+        "qty": 870.0,
+        "value": 1305.0,
+        "usageQty": 30.0,
+        "usageValue": 45.0,
+        "threshold": 1000.0,
+        "monthsCover": 348.0
+      },
+      {
+        "name": "PAracetamol+ORphen(C)(1000s) 35 mg + 450 mg",
+        "qty": 900.0,
+        "value": 900.0,
+        "usageQty": 2920.0,
+        "usageValue": 2920.0,
+        "threshold": 1000.0,
+        "monthsCover": 3.7
+      },
+      {
+        "name": "ISORDIL(C)(1000s) 10 mg",
+        "qty": 900.0,
+        "value": 1350.0,
+        "usageQty": 840.0,
+        "usageValue": 1260.0,
+        "threshold": 1000.0,
+        "monthsCover": 12.86
+      },
+      {
+        "name": "NORFLOXACIN (C)(500s) 400 mg",
+        "qty": 400.0,
+        "value": 700.0,
+        "usageQty": 20.0,
+        "usageValue": 35.0,
+        "threshold": 500.0,
+        "monthsCover": 239.52
+      },
+      {
+        "name": "ROXITHROMYCIN(100s) 150 mg",
+        "qty": 40.0,
+        "value": 60.0,
+        "usageQty": 60.0,
+        "usageValue": 90.0,
+        "threshold": 100.0,
+        "monthsCover": 8.0
+      },
+      {
+        "name": "ยาแก้ไอผสมมะขามป้อม(50s) 20% w/v",
+        "qty": 40.0,
+        "value": 1000.0,
+        "usageQty": 547.0,
+        "usageValue": 13675.0,
+        "threshold": 100.0,
+        "monthsCover": 0.88
+      },
+      {
+        "name": "ไพลปาล์ม 15% v/w",
+        "qty": 44.0,
+        "value": 2948.0,
+        "usageQty": 516.0,
+        "usageValue": 34572.0,
+        "threshold": 100.0,
+        "monthsCover": 1.02
+      },
+      {
+        "name": "CLOPIDOGREL(100s) 75 mg",
+        "qty": 345.0,
+        "value": 948.75,
+        "usageQty": 1335.0,
+        "usageValue": 3671.25,
+        "threshold": 400.0,
+        "monthsCover": 3.1
+      },
+      {
+        "name": "ลูกประคบ (CLAIM) 200 g",
+        "qty": 46.0,
+        "value": 4600.0,
+        "usageQty": 382.0,
+        "usageValue": 38200.0,
+        "threshold": 100.0,
+        "monthsCover": 1.45
+      },
+      {
+        "name": "Gabapentin (100s) 100 mg",
+        "qty": 450.0,
+        "value": 1237.5,
+        "usageQty": 1380.0,
+        "usageValue": 3795.0,
+        "threshold": 500.0,
+        "monthsCover": 3.91
+      },
+      {
+        "name": "ACETYLCYSTEINE (B)(60s) 200 mg",
+        "qty": 73.0,
+        "value": 730.0,
+        "usageQty": 34.0,
+        "usageValue": 340.0,
+        "threshold": 120.0,
+        "monthsCover": 25.8
+      },
+      {
+        "name": "SIMETHICONE(C)(500s) 80 mg",
+        "qty": 460.0,
+        "value": 460.0,
+        "usageQty": 1235.0,
+        "usageValue": 1235.0,
+        "threshold": 500.0,
+        "monthsCover": 4.47
+      },
+      {
+        "name": "ANALGESIC  BALM(50s) 2 g/100 g + 2 g/100 g + 2 g/100 g + 10 g/100 g + 1",
+        "qty": 13.0,
+        "value": 195.0,
+        "usageQty": 51.0,
+        "usageValue": 765.0,
+        "threshold": 50.0,
+        "monthsCover": 3.06
+      },
+      {
+        "name": "CLOtrimazole Vaginal Suppo.(B)(6s) 100 mg",
+        "qty": 24.0,
+        "value": 54.0,
+        "usageQty": 42.0,
+        "usageValue": 94.5,
+        "threshold": 60.0,
+        "monthsCover": 6.86
+      },
+      {
+        "name": "CHLORPHENIRAMINE SYR. (B) 2 mg/5 mL",
+        "qty": 15.0,
+        "value": 105.0,
+        "usageQty": 90.0,
+        "usageValue": 630.0,
+        "threshold": 50.0,
+        "monthsCover": 2.0
+      },
+      {
+        "name": "AMITRIPTYLINE (C) (กันแสง)(500s) 10 mg",
+        "qty": 470.0,
+        "value": 470.0,
+        "usageQty": 30.0,
+        "usageValue": 30.0,
+        "threshold": 500.0,
+        "monthsCover": 188.0
+      },
+      {
+        "name": "TRIAMCINOLONE CREAM 0.1%(C)(12s) 100 mg/100 g",
+        "qty": 7.0,
+        "value": 71.75,
+        "usageQty": 197.0,
+        "usageValue": 2019.25,
+        "threshold": 36.0,
+        "monthsCover": 0.43
+      },
+      {
+        "name": "HISTA-OPH  EYE DROP (C)(12s) 50 mg/100 mL + 40 mg/100 mL",
+        "qty": 3.0,
+        "value": 37.5,
+        "usageQty": 122.0,
+        "usageValue": 1525.0,
+        "threshold": 24.0,
+        "monthsCover": 0.29
+      },
+      {
+        "name": "MULTIVITAMINS (กันแสง)(1000s) .",
+        "qty": 980.0,
+        "value": 980.0,
+        "usageQty": 1140.0,
+        "usageValue": 1140.0,
+        "threshold": 1000.0,
+        "monthsCover": 10.32
+      },
+      {
+        "name": "Ferrous Sul. Drops(12s) 50 mg/0.6 mL",
+        "qty": 45.0,
+        "value": 2250.0,
+        "usageQty": 390.0,
+        "usageValue": 19500.0,
+        "threshold": 60.0,
+        "monthsCover": 1.38
+      },
+      {
+        "name": "LEVONORGESTREL+ethinylestradiol(R-DEN)(50) 30 mcg + 150 mcg",
+        "qty": 38.0,
+        "value": 1520.0,
+        "usageQty": 126.0,
+        "usageValue": 5040.0,
+        "threshold": 50.0,
+        "monthsCover": 3.62
+      },
+      {
+        "name": "MEBENDAZOLE (C)(6s) 100 mg.",
+        "qty": 60.0,
+        "value": 90.0,
+        "usageQty": 0.0,
+        "usageValue": 0.0,
+        "threshold": 72.0,
+        "monthsCover": null
+      },
+      {
+        "name": "CO-TRIMOXAZOLE (C;D) กันแสง(500s) 400 mg + 80 mg",
+        "qty": 490.0,
+        "value": 735.0,
+        "usageQty": 0.0,
+        "usageValue": 0.0,
+        "threshold": 500.0,
+        "monthsCover": null
+      },
+      {
+        "name": "BETAMETHASONE 0.1%(Bet N)(10s) 100 mg/100 g",
+        "qty": 14.0,
+        "value": 140.0,
+        "usageQty": 87.0,
+        "usageValue": 870.0,
+        "threshold": 24.0,
+        "monthsCover": 1.93
+      },
+      {
+        "name": "CALAMINE LOTION (B)(50s) 15 g/100 mL + 5 g/100 mL",
+        "qty": 41.0,
+        "value": 266.5,
+        "usageQty": 60.0,
+        "usageValue": 390.0,
+        "threshold": 50.0,
+        "monthsCover": 8.2
+      },
+      {
+        "name": "เจลว่านหางจระเข้(10s) 87.4%",
+        "qty": 6.0,
+        "value": 240.0,
+        "usageQty": 48.0,
+        "usageValue": 1920.0,
+        "threshold": 15.0,
+        "monthsCover": 1.5
+      },
+      {
+        "name": "MEDROXYPROGESTERONE ACETATE (X)(10s) 150 mg/3 mL",
+        "qty": 11.0,
+        "value": 660.0,
+        "usageQty": 89.0,
+        "usageValue": 5340.0,
+        "threshold": 20.0,
+        "monthsCover": 1.48
+      },
+      {
+        "name": "Dicloxacillin Syr (B) 125 mg/5ml",
+        "qty": 2.0,
+        "value": 40.0,
+        "usageQty": 26.0,
+        "usageValue": 520.0,
+        "threshold": 10.0,
+        "monthsCover": 0.92
+      },
+      {
+        "name": "DOMPERIDONE Sry (B) 5 mg/5 mL",
+        "qty": 2.0,
+        "value": 15.5,
+        "usageQty": 23.0,
+        "usageValue": 178.25,
+        "threshold": 10.0,
+        "monthsCover": 1.04
+      },
+      {
+        "name": "ANTACID  SUSP(C) (60s) 306 mg/5 mL + 100 mg/5 mL + 20 mg/5 mL",
+        "qty": 52.0,
+        "value": 1170.0,
+        "usageQty": 131.0,
+        "usageValue": 2947.5,
+        "threshold": 60.0,
+        "monthsCover": 4.76
+      },
+      {
+        "name": "CHLORAM Eye oint. (C)(12s) 1 g/100 g",
+        "qty": 17.0,
+        "value": 340.0,
+        "usageQty": 5.0,
+        "usageValue": 100.0,
+        "threshold": 24.0,
+        "monthsCover": 40.48
+      },
+      {
+        "name": "Buscopan Syr.(C) 5 mg/5 mL",
+        "qty": 4.0,
+        "value": 52.0,
+        "usageQty": 64.0,
+        "usageValue": 832.0,
+        "threshold": 10.0,
+        "monthsCover": 0.75
+      },
+      {
+        "name": "CetirizINE syr 5 mg/5 mL",
+        "qty": 4.0,
+        "value": 76.0,
+        "usageQty": 32.0,
+        "usageValue": 608.0,
+        "threshold": 10.0,
+        "monthsCover": 1.5
+      },
+      {
+        "name": "Amoxicillin  DRY SYR (B) 250 mg/5ml",
+        "qty": 5.0,
+        "value": 67.5,
+        "usageQty": 11.0,
+        "usageValue": 148.5,
+        "threshold": 10.0,
+        "monthsCover": 5.43
+      },
+      {
+        "name": "ยาธาตุอบเชย(50s) 4% w/v จากเปลือกอบเชยเทศ เปลือกสมุลแว้ง ลูกกระวาน",
+        "qty": 46.0,
+        "value": 1426.0,
+        "usageQty": 435.0,
+        "usageValue": 13485.0,
+        "threshold": 50.0,
+        "monthsCover": 1.27
+      },
+      {
+        "name": "SILVER sulfadiazine CREAM 1 g/100 g",
+        "qty": 1.0,
+        "value": 30.0,
+        "usageQty": 8.0,
+        "usageValue": 240.0,
+        "threshold": 5.0,
+        "monthsCover": 1.49
+      },
+      {
+        "name": "GLYCERYL guaiacolate Syr (C) 100 mg/5 mL",
+        "qty": 7.0,
+        "value": 80.5,
+        "usageQty": 60.0,
+        "usageValue": 690.0,
+        "threshold": 10.0,
+        "monthsCover": 1.4
+      },
+      {
+        "name": "ครีมพญายอ(10s) สารสกัดพญายอ 4.3% w/w",
+        "qty": 3.0,
+        "value": 105.0,
+        "usageQty": 11.0,
+        "usageValue": 385.0,
+        "threshold": 5.0,
+        "monthsCover": 3.26
+      },
+      {
+        "name": "5% D/N/2 1000 ML 5 g/100 mL + 450 mg/100 mL",
+        "qty": 1.0,
+        "value": 38.0,
+        "usageQty": 0.0,
+        "usageValue": 0.0,
+        "threshold": 2.0,
+        "monthsCover": null
+      },
+      {
+        "name": "SIMETHICONE sus. (C)(12) 40 mg/0.6 mL",
+        "qty": 11.0,
+        "value": 165.0,
+        "usageQty": 8.0,
+        "usageValue": 120.0,
+        "threshold": 12.0,
+        "monthsCover": 16.42
+      },
+      {
+        "name": "POLY-OPH(B)(12s) 2.5 mg/100 mL + 200 mg/100 mL + 500000 iu/100 mL",
+        "qty": 11.0,
+        "value": 275.0,
+        "usageQty": 21.0,
+        "usageValue": 525.0,
+        "threshold": 12.0,
+        "monthsCover": 6.29
+      }
+    ],
+    "nearExpiry": [
+      {
+        "name": "NORFLOXACIN (C)(500s) 400 mg",
+        "qty": 400.0,
+        "value": 700.0,
+        "usageQty": 20.0,
+        "usageValue": 35.0,
+        "threshold": 500.0,
+        "monthsCover": 239.52,
+        "days": 47,
+        "expiry": "18/10/2026"
+      },
+      {
+        "name": "CHLORPHENIRAMINE SYR. (B) 2 mg/5 mL",
+        "qty": 15.0,
+        "value": 105.0,
+        "usageQty": 90.0,
+        "usageValue": 630.0,
+        "threshold": 50.0,
+        "monthsCover": 2.0,
+        "days": 54,
+        "expiry": "25/10/2026"
+      },
+      {
+        "name": "รางจืด(100s) 400 มิลลิกรัม",
+        "qty": 500.0,
+        "value": 750.0,
+        "usageQty": 8280.0,
+        "usageValue": 12420.0,
+        "threshold": 500.0,
+        "monthsCover": 0.72,
+        "days": 59,
+        "expiry": "30/10/2026"
+      },
+      {
+        "name": "0.9 NSS 5 ml* 900 mg/100 mL",
+        "qty": 10.0,
+        "value": 60.0,
+        "usageQty": 8.0,
+        "usageValue": 48.0,
+        "threshold": 10.0,
+        "monthsCover": 14.93,
+        "days": 73,
+        "expiry": "13/11/2026"
+      },
+      {
+        "name": "DOMPERIDONE Sry (B) 5 mg/5 mL",
+        "qty": 2.0,
+        "value": 15.5,
+        "usageQty": 23.0,
+        "usageValue": 178.25,
+        "threshold": 10.0,
+        "monthsCover": 1.04,
+        "days": 73,
+        "expiry": "13/11/2026"
+      },
+      {
+        "name": "Chlorhexidine MOUTH WASH 120 mg/100 mL",
+        "qty": 8.0,
+        "value": 184.0,
+        "usageQty": 0.0,
+        "usageValue": 0.0,
+        "threshold": 5.0,
+        "monthsCover": null,
+        "days": 87,
+        "expiry": "27/11/2026"
+      }
+    ],
+    "lowCover": [
+      {
+        "name": "Amoxicillin Clav(tab) (B)* 875 mg + 125 mg",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 14.0,
+        "usageValue": 206.5,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "VITAMIN C (A)กันแสง(1000s) 100 mg",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 540.0,
+        "usageValue": 270.0,
+        "threshold": 1000.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "TRAMADOL HCl(C)* 50 mg",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 290.0,
+        "usageValue": 435.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "ROTASIIL vaccine* 1 x 10 5.6 FFU/2 mL + 1 x 10 5.6 FFU/2 mL + 1 x 10",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 25.0,
+        "usageValue": 2500.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "PREDNISOLONE(C,D1rd)(1000s)* 5 mg",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 30.0,
+        "usageValue": 15.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "Phenytoin(Dilantin)(D)(1000s)* 100 mg",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 1350.0,
+        "usageValue": 6075.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "Oseltamivir (Tamiflu) (C)* 75 mg",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 10.0,
+        "usageValue": 340.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "OPV vaccine* 1 vaccinating dose + 1 vaccinating dose + 1 vaccin",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 42.0,
+        "usageValue": 840.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "MMR vaccine* 1000 tcid50/0.5 mL + 5000 tcid50/0.5 mL + 1000 tci",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 16.0,
+        "usageValue": 1600.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "MMR vaccine* (multiple) 1000 tcid50/0.5 mL + 5000 tcid50/0.5 mL + 1000 tci",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 4.0,
+        "usageValue": 400.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "loraZEPAM(D)กันแสง* 500 mcg",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 1070.0,
+        "usageValue": 535.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "JE LIVE VACCINE* 4 pfu",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 12.0,
+        "usageValue": 2160.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "Itraconazole(1000s) 100 mg",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 60.0,
+        "usageValue": 390.0,
+        "threshold": 1000.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "KALIMATE(C)* 5 g",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 12.0,
+        "usageValue": 66.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "Ibuprofen (B;D 3rd)(500s) **200** mg",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 210.0,
+        "usageValue": 210.0,
+        "threshold": 500.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "DTP-HB Hib vaccine* 15 Lf/0.5 mL + 30 mcg/0.5 mL + 10 mcg/0.5 mL + 4 i",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 27.0,
+        "usageValue": 2700.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "DTP vaccine* 30 iu/0.5 mL + 4 iu/0.5 mL + 60 iu/0.5 mL",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 29.0,
+        "usageValue": 2900.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "dT Vaccine 2 Lf/0.5 mL + 8.8 Lf/0.5 mL",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 33.0,
+        "usageValue": 3300.0,
+        "threshold": 2.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "IPV vaccine* 15 D antigen unit/0.5 mL + 45 D antigen unit/0.5 m",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 14.0,
+        "usageValue": 1400.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "CILOSTAZOL(100s)* 100 mg",
+        "qty": 0.0,
+        "value": 0.0,
+        "usageQty": 720.0,
+        "usageValue": 9360.0,
+        "threshold": 0.0,
+        "monthsCover": 0.0
+      },
+      {
+        "name": "ยาหอมเทพจิตร(20s) 200 มิลลิกรัม/เม็ด",
+        "qty": 125.0,
+        "value": 1875.0,
+        "usageQty": 6458.0,
+        "usageValue": 96870.0,
+        "threshold": 1200.0,
+        "monthsCover": 0.23
+      },
+      {
+        "name": "HISTA-OPH  EYE DROP (C)(12s) 50 mg/100 mL + 40 mg/100 mL",
+        "qty": 3.0,
+        "value": 37.5,
+        "usageQty": 122.0,
+        "usageValue": 1525.0,
+        "threshold": 24.0,
+        "monthsCover": 0.29
+      },
+      {
+        "name": "TRIAMCINOLONE CREAM 0.1%(C)(12s) 100 mg/100 g",
+        "qty": 7.0,
+        "value": 71.75,
+        "usageQty": 197.0,
+        "usageValue": 2019.25,
+        "threshold": 36.0,
+        "monthsCover": 0.43
+      },
+      {
+        "name": "ORS (B)(100s) 2.025 g/3.3 g + 225 mg/3.3 g + 390 mg/3.3 g + 435",
+        "qty": 26.0,
+        "value": 52.0,
+        "usageQty": 641.0,
+        "usageValue": 1282.0,
+        "threshold": 200.0,
+        "monthsCover": 0.49
+      },
+      {
+        "name": "FERROUS FUMARATE(A)(500s) 200 mg",
+        "qty": 2140.0,
+        "value": 1070.0,
+        "usageQty": 44448.0,
+        "usageValue": 22224.0,
+        "threshold": 2500.0,
+        "monthsCover": 0.58
+      },
+      {
+        "name": "DICLOXACILLIN (B)(500s) 250 mg",
+        "qty": 80.0,
+        "value": 160.0,
+        "usageQty": 1390.0,
+        "usageValue": 2780.0,
+        "threshold": 500.0,
+        "monthsCover": 0.69
+      },
+      {
+        "name": "รางจืด(100s) 400 มิลลิกรัม",
+        "qty": 500.0,
+        "value": 750.0,
+        "usageQty": 8280.0,
+        "usageValue": 12420.0,
+        "threshold": 500.0,
+        "monthsCover": 0.72
+      },
+      {
+        "name": "Buscopan Syr.(C) 5 mg/5 mL",
+        "qty": 4.0,
+        "value": 52.0,
+        "usageQty": 64.0,
+        "usageValue": 832.0,
+        "threshold": 10.0,
+        "monthsCover": 0.75
+      },
+      {
+        "name": "ยาฟ้าทะลายโจร(100s) 500 mg",
+        "qty": 400.0,
+        "value": 900.0,
+        "usageQty": 6090.0,
+        "usageValue": 13702.5,
+        "threshold": 1500.0,
+        "monthsCover": 0.79
+      },
+      {
+        "name": "DOMPERIDONE (B)(500s) 10 mg",
+        "qty": 40.0,
+        "value": 40.0,
+        "usageQty": 560.0,
+        "usageValue": 560.0,
+        "threshold": 500.0,
+        "monthsCover": 0.86
+      },
+      {
+        "name": "ยาแก้ไอผสมมะขามป้อม(50s) 20% w/v",
+        "qty": 40.0,
+        "value": 1000.0,
+        "usageQty": 547.0,
+        "usageValue": 13675.0,
+        "threshold": 100.0,
+        "monthsCover": 0.88
+      },
+      {
+        "name": "Dicloxacillin Syr (B) 125 mg/5ml",
+        "qty": 2.0,
+        "value": 40.0,
+        "usageQty": 26.0,
+        "usageValue": 520.0,
+        "threshold": 10.0,
+        "monthsCover": 0.92
+      },
+      {
+        "name": "EnaRapril (C,D-23rd)(1000s) *5* mg",
+        "qty": 6815.0,
+        "value": 6815.0,
+        "usageQty": 83208.0,
+        "usageValue": 83208.0,
+        "threshold": 14000.0,
+        "monthsCover": 0.98
+      }
+    ]
+  }
+}
