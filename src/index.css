@@ -125,3 +125,8 @@ button,input,select,textarea{font:inherit}
   .donut-chart{height:125px}
   .chart-box{height:230px}
 }
+
+
+/* Keep charts and dense dashboard panels fluid on narrow screens */
+.panel,.panel-body,.main-grid>*,.bottom-grid>*,.chart-box,.donut-chart{min-width:0}
+.dashboard-shell{scrollbar-width:thin}
